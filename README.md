@@ -31,3 +31,5 @@ Para descargar el proyecto desde GitHub:
 3. Selecciona "Download ZIP" para descargar el proyecto como un archivo comprimido.
 4. Extrae el archivo ZIP en tu computadora.
 5. Abre el proyecto en Android Studio seleccionando la carpeta extraída.
+
+## [https://drive.google.com/drive/folders/1Y5LNNY8huHS2ZH2IhEZL3KDZ-ncgaV5N?usp=sharing](https://drive.google.com/drive/folders/1Ps9RauMMR3755YK0IqaDI3Y_11kI6fgh?usp=sharing)
